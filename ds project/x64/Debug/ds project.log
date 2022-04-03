@@ -1,0 +1,4 @@
+﻿  Source.cpp
+  The contents of <optional> are available only with C++17 or later.
+C:\Users\Norhan\source\repos\ds project\ds project\Source.cpp(50): warning C4715: 'Quantitycheck': not all control paths return a value
+  ds project.vcxproj -> C:\Users\Norhan\source\repos\ds project\x64\Debug\ds project.exe
